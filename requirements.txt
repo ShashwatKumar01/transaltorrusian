@@ -1,9 +1,9 @@
 Quart==0.19.6
 sniffio
-httpx==0.23.1
+httpx
 chardet
 idna==2.*
-httpcore==0.16.3
+httpcore
 hstspreload
 certifi
 rfc3986
