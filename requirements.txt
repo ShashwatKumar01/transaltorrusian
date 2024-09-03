@@ -1,4 +1,4 @@
-﻿urllib3==1.26.18
+
 db-sqlite3
 w3lib==2.1.2
 importlib-metadata==7.0.1
@@ -7,7 +7,5 @@ requests==2.31.0
 requests-html==0.10.0
 requests-random-user-agent==2023.2.15
 TgCrypto==1.2.5
-aiohttp==3.9.3
-Quart==0.19.4
 GoogleTran==1.0
 googletrans==4.0.0rc1
