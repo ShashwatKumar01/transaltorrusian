@@ -1,4 +1,4 @@
-
+quart
 db-sqlite3
 w3lib==2.1.2
 importlib-metadata==7.0.1
