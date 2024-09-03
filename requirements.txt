@@ -15,3 +15,4 @@ Pyrogram==2.0.106
 requests-random-user-agent==2023.2.15
 TgCrypto==1.2.5
 sniffio
+googletrans==4.0.0-rc1
