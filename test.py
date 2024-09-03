@@ -71,6 +71,11 @@ async def translate_media_message(client, message):
             voice=message.voice.file_id,
             caption=translated_caption
         )
+    elif message.animation:
+        await message.reply_animation(
+            animation=message.animation.file_id,
+            caption=translated_caption
+        )
     else:
         logger.warning(f"Unsupported media type: {message.media}")
 
