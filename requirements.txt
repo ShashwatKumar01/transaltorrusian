@@ -1,16 +1,4 @@
 Quart==0.19.6
-sniffio
-httpx
-chardet
-idna==2.*
-httpcore==1.0.5
-hstspreload
-certifi
-rfc3986
-h11==0.14.0
-h2
-hpack
-hyperframe
 Pyrogram==2.0.106 
 requests-random-user-agent==2023.2.15
 TgCrypto==1.2.5
