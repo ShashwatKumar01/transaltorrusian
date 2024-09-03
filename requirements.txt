@@ -9,3 +9,4 @@ requests-random-user-agent==2023.2.15
 TgCrypto==1.2.5
 GoogleTran==1.0
 googletrans==4.0.0rc1
+h11==0.14.0
