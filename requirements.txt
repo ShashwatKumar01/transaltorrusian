@@ -3,7 +3,7 @@ sniffio
 httpx
 chardet
 idna==2.*
-httpcore
+httpcore==1.0.5
 hstspreload
 certifi
 rfc3986
