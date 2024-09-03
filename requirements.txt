@@ -11,4 +11,4 @@ aiohttp==3.9.3
 Quart==0.19.4
 GoogleTran==1.0
 googletrans==4.0.0rc1
-
+h11==0.14.0
