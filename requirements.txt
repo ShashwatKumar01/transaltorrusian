@@ -1,6 +1,6 @@
 Quart==0.19.6
 sniffio
-httpx==0.13.3 
+httpx==0.23.1
 chardet
 idna==2.*
 httpcore==1.0.5
