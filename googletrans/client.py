@@ -52,7 +52,7 @@ class Translator:
 
     def __init__(self, service_urls=None, user_agent=DEFAULT_USER_AGENT,
                  raise_exception=DEFAULT_RAISE_EXCEPTION,
-                 proxies: typing.Dict[str, httpcore.SyncHTTPTransport] = None, timeout: Timeout = None):
+                 proxies: typing.Dict[str, httpcore.AsyncHTTPProxy] = None, timeout: Timeout = None):
 
         self.client = httpx.Client()
         if proxies is not None:  # pragma: nocover
